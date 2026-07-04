@@ -1,3 +1,5 @@
+# About Me: 
+#Hi there, I'm Aayush Thakur 👋<br><br>🎓 Third-year Computer Engineering student passionate about Software Engineering and Full Stack Development.
 
 
 
